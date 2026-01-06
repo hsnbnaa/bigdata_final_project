@@ -1,0 +1,7 @@
+timestamp,process_name,status,row_count,message
+2026-01-06 15:38:47,Extract Customers,SUCCESS,99441,Time: 2.9842s
+2026-01-06 15:38:51,Extract Items,SUCCESS,118333,From Source 2
+2026-01-06 15:38:54,Extract Payments,SUCCESS,103886,From Source 2
+2026-01-06 15:38:57,Extract Reviews,SUCCESS,99224,From Source 2
+2026-01-06 15:39:00,Extract Orders,SUCCESS,99441,Additional Source
+2026-01-06 15:39:02,Extract Products,SUCCESS,32951,Additional Source
