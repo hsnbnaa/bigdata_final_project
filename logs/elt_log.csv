@@ -1,0 +1,6 @@
+timestamp,process_name,status,row_count,message
+2026-01-07 21:32:14,Extract & Load,SUCCESS,547664,Completed in 18.19s
+2026-01-07 21:32:14,Transform - Cleaning,SUCCESS,0,
+2026-01-07 21:32:14,Transform - Feature Engineering,SUCCESS,0,
+2026-01-07 21:32:16,Transform - Build Fact,SUCCESS,113314,
+2026-01-07 21:32:17,Analytics - SQL Queries,SUCCESS,0,8 queries executed
