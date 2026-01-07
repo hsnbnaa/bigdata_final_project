@@ -1,0 +1,12 @@
+timestamp,process_name,status,row_count,message
+2026-01-07 03:27:33,Extract Customers,SUCCESS,99441,Time: 1.7865s
+2026-01-07 03:27:36,Extract Items,SUCCESS,118333,From Source 2
+2026-01-07 03:27:39,Extract Payments,SUCCESS,103886,From Source 2
+2026-01-07 03:27:41,Extract Reviews,SUCCESS,99224,From Source 2
+2026-01-07 03:27:43,Extract Orders,SUCCESS,99441,Additional Source
+2026-01-07 03:27:46,Extract Products,SUCCESS,32951,Additional Source
+2026-01-07 03:32:10,Transform - Cleaning,SUCCESS,0,Standardized column names
+2026-01-07 03:32:10,Transform - Imputation,SUCCESS,0,Filled NaN in Product Category
+2026-01-07 03:32:11,Transform - Merge Fact,SUCCESS,99992,Fact Table Created. Time: 0.704s
+2026-01-07 03:32:12,Load to SQLite,SUCCESS,99992,Saved to olist_dw.db
+2026-01-07 03:32:13,Load to CSV,SUCCESS,99992,Saved to final_report_olist.csv

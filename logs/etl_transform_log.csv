@@ -1,0 +1,4 @@
+timestamp,process_name,status,row_count,message
+2026-01-07 03:32:10,Transform - Cleaning,SUCCESS,0,Standardized column names
+2026-01-07 03:32:10,Transform - Imputation,SUCCESS,0,Filled NaN in Product Category
+2026-01-07 03:32:11,Transform - Merge Fact,SUCCESS,99992,Fact Table Created. Time: 0.704s

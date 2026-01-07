@@ -1,0 +1,3 @@
+timestamp,process_name,status,row_count,message
+2026-01-07 03:32:12,Load to SQLite,SUCCESS,99992,Saved to olist_dw.db
+2026-01-07 03:32:13,Load to CSV,SUCCESS,99992,Saved to final_report_olist.csv
