@@ -1,4 +1,4 @@
-# 📦 Pipeline ETL & Analisis Data E-Commerce Olist
+# 📦 Pipeline ETL/ELT & Analisis Data E-Commerce Olist
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-green)
